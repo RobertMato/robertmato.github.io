@@ -5,6 +5,9 @@ date: 2020-02-12
 excerpt: "Are there too many references to Berries? Good."
 tags: [pokemon, video games]
 comments: false
+redirect_from: "/goldberry/"
+redirect_from: "/gb/"
+redirect_from: "/pokegoldberry/"
 ---
 
 Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
