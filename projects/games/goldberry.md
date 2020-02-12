@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "GoldBerry"
 date: 2020-02-12
 excerpt: "Are there too many references to Berries? Good."
